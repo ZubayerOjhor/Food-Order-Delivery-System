@@ -1,6 +1,7 @@
 # Online Food Order & Delivery System
 
-The project is done by using C++. Object Oriented Programing Concepts Used in The Project: Class and Object, Inheritance, Encapsulation, User Defined Functions
+The project is done by using C++. Object Oriented Programing Concepts Used in The Project: Class and Object, Inheritance, Encapsulation, User Defined Functions.
+
 Main users of this project is-
 1. Customers
 2. Restaurant Owners 
